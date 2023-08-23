@@ -1,2 +1,2 @@
-# News
-# Research Highlights
+### *News*
+### *Highlights*
