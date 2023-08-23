@@ -1,1 +1,2 @@
-We are a group of enthusiastic researchers from Durham and Swansea Universities with common interests in general machine learning and artificial intelligence, ranging from theory through methodology to biomedical and physical sciences applications.
+# News
+# Research Highlights
