@@ -1,4 +1,2 @@
-### *News*
-
-
 ### *Highlights*
+
